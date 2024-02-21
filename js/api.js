@@ -1,5 +1,5 @@
-const URL_GET = 'https://26.javascript.pages.academy/kekstagram/data';
-const URL_SEND = 'https://26.javascript.pages.academy/kekstagram';
+const URL_GET = 'https://26.javascript.htmlacademy.pro/kekstagram/data';
+const URL_SEND = 'https://26.javascript.htmlacademy.pro/kekstagram';
 
 const getData = async (onSuccess, onFail) => {
   try {
